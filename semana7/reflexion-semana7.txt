@@ -1,0 +1,10 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+Permiten la gestión transparente y eficiente de los servicios locales. Centralizan la información mediante la georreferenciación y el seguimiento en tiempo real, lo que agiliza la atención de daños en el entorno (como vías en mal estado o fallas en el alumbrado) 
+y fomenta la colaboración directa entre ciudadanos y autoridades.
+El uso de estas herramientas tecnológicas aporta importantes beneficios:Trazabilidad y claridad: 
+Permite a los usuarios consultar el estado exacto de su reporte (recibido, en proceso, resuelto), 
+lo que evita la duplicidad de quejas y reduce costos operativos frente a la atención por canales tradicionales.
+Datos para la prevención: Facilita la identificación de patrones, puntos críticos e incidencias recurrentes. 
+Esta información resulta vital para que los administradores municipales tomen decisiones basadas en datos, optimizando la asignación de recursos y presupuestos.
+Participación ciudadana: 
+Fomenta un modelo de ciudad inteligente (Smart City) en donde la comunidad se involucra activamente en el cuidado de su entorno, teniendo un canal de comunicación directo, medible y accesible sin importar su ubicación
