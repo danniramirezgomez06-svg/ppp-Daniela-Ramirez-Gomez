@@ -1,0 +1,8 @@
+uname -a
+Qué información muestra cada comando.
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+Lo que hace es mostrar informacion general del sistema operativo
+whoami
+Qué información muestra cada comando.
+Muestra el usuario que esta trabajando en el sistema operativo.
+
