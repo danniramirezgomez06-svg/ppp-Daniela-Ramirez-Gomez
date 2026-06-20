@@ -1,0 +1,15 @@
+Qué ocurre cuando ejecutas node server.js.
+cuando consultas la url http://localhost:3000, 
+en pantalla se ve el mensaje: Servidor activo y funcionando
+Qué mensaje aparece en la terminal.
+Servidor ejecutándose en puerto 3000
+Servidor ejecutándose en puerto 3000
+Qué sucede cuando visitas la ruta /estado.
+Me sale una opcion de seleccion "impresion con formato estilistico"
+Si no Pongo la opcion me sale 
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
+Si le pongo la opcion me sale 
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
