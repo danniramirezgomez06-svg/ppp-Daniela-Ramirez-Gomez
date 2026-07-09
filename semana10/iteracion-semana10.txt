@@ -1,0 +1,30 @@
+¿Qué 2 tareas del backlog harías primero?
+Respuesta:Definir y organizar los canales de comunicación en Telegram
+Por qué primero: Sin un espacio claro donde compartir información, escuchar opiniones y coordinarse, nada más avanza. Es la base para que todos los participantes estén enterados, sepan dónde consultar y puedan participar desde el inicio.
+Qué implica: Crear grupos/canales por temas, definir reglas sencillas, dar acceso a las personas y explicar cómo usarlos.
+Identificar las necesidades principales y priorizar los objetivos del proceso
+Por qué segundo: Antes de automatizar nada o empezar a planificar pasos detallados, hay que saber para qué se trabaja y qué espera la comunidad. Esto evita perder tiempo en tareas que no responden a lo que realmente hace falta.
+Qué implica: Recopilar las principales preocupaciones o metas, ordenarlas de más a menos urgentes y dejar claro qué se quiere lograr en esta etapa.
+💡 Resumen: Primero armamos el "lugar de encuentro", luego definimos "hacia dónde vamos". Así empezamos con orden y sentido.
+¿Por qué son las más importantes?
+Respuesta:1. La Agilidad elimina la frustraciónResultados rápidos: La gente se cansa de esperar años por un cambio; la agilidad entrega pequeñas mejoras cada semana.Flexibilidad real: Si los vecinos cambian de opinión o surge una emergencia, el plan se adapta de inmediato sin burocracia.2. La Automatización multiplica los brazosAdiós al trabajo aburrido: En lugar de perder horas contando votos manuales o enviando correos, el sistema lo hace solo.Cero datos perdidos: Asegura que ninguna propuesta ciudadana se quede olvidada en un cuaderno o papel traspapelado.3. Telegram rompe las barreras de entradaInclusión total: Todo el mundo sabe usar un chat; no exige aprender a usar plataformas de gobierno complejas.Información sin caos: 
+Los canales oficiales informan a miles de personas a la vez, y los hilos separan los debates para no saturar al vecino.
+¿Qué significa para ti que una tarea esté “terminada”?
+Respuesta: Para mí,como cuidadana, que una tarea esté "terminada" significa que cumple estrictamente con tres condiciones: es útil, es exacta y está completa. No basta con procesar la información; el resultado debe resolver tu necesidad real de inmediato.Esto se traduce en cuatro pilares prácticos:
+1. Cu	mplimiento del objetivo 
+El resultado responde directamente a tu pregunta o instrucción.
+No quedan cabos sueltos ni preguntas sin responder.
+2. Verificación de los datos
+Toda la información entregada es real, actual y precisa.Los cálculos numéricos o códigos se revisaron internamente para evitar errores.
+3. Formato listo para usarEl texto está organizado de forma clara y fácil de escanear.
+Se eliminó el relleno para entregarte la mayor cantidad de valor en pocas palabras.
+4. Dirección hacia el siguiente pasoLa respuesta no solo cierra el tema actual.
+Te propone un camino claro para avanzar hacia tu meta final.
+Escribe una definición simple de terminado con al menos 3 criterios. 
+Por ejemplo:
+Respuesta:
+Funciona:El término "funciona" (del verbo funcionar) significa que algo cumple su objetivo, realiza su trabajo correctamente o produce el efecto esperado.Su significado exacto depende del contexto en el que se use:1. En tecnología y herramientasSignifica que el sistema, código o máquina opera sin errores.Ejecuta los comandos programados y entrega el resultado correcto.2. En procesos y metodologías (como la Agilidad)Significa que el método es útil y da resultados prácticos.Resuelve el problema del equipo en lugar de volverse una carga burocrática.3. En relaciones y comunidadesSignifica que existe armonía, orden y buena comunicación.Los acuerdos se respetan y el grupo avanza hacia sus metas.4. En medicina o cienciaSignifica que un tratamiento o componente produce el efecto deseado.Modifica o reactiva una actividad biológica de forma correcta
+Fue probada:La frase "fue aprobada" significa que una propuesta, ley, proyecto, solicitud o documento recibió la validación oficial, el visto bueno o el consentimiento formal por parte de una autoridad, comité o mayoría de personas con el poder para hacerlo.Este estado cambia por completo la situación de lo que se evalúa, según el contexto:1. En procesos comunitarios o ciudadanosSignifica que una propuesta vecinal ganó la votación o consenso.El proyecto pasa de ser una simple idea a un plan oficial con luz verde para ejecutarse.2. En el ámbito legal y políticoSignifica que una ley, reglamento o reforma completó todos los debates y filtros exigidos.El texto se vuelve oficial y de obligatorio cumplimiento tras su publicación.3. En administración y finanzasSignifica que un presupuesto, crédito, factura o gasto recibió la firma de autorización.Se liberan los recursos económicos para poder empezar a gastar o contratar.4. En tecnología y desarrollo (Metodologías Ágiles)Significa que una tarea o funcionalidad pasó con éxito las pruebas de calidad y revisión.El trabajo cumple con los requisitos mínimos establecidos y se considera oficialmente cerrado.
+Quedó registrada en Git:
+La frase "Quedó registrada en Git" significa que una tarea, cambio o versión de un proyecto fue guardada de forma permanente y oficial en el historial del sistema de control de versiones (Git).En el mundo del desarrollo y la agilidad, esto se traduce en cuatro realidades prácticas:1. Existe una "foto" del cambioEl código o documento se guardó mediante un comando llamado commit.Queda registrado exactamente qué se agregó, qué se borró y quién lo hizo.2. Tiene fecha y autoríaEl sistema guarda el día, la hora exacta y el nombre de la persona que subió el trabajo.Esto asegura la transparencia total del proceso.3. Es reversible y seguraSi el cambio genera un error, se puede regresar a la versión anterior con un par de clics.El trabajo ya no corre el riesgo de borrarse o perderse.4. Está lista para integrarseSignifica que la tarea pasó de la computadora del trabajador al repositorio compartido del equipo.El resto de la comunidad o desarrolladores ya pueden ver y usar esa actualización.
+

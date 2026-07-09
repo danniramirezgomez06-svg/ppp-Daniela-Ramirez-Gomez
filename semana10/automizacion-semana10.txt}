@@ -1,0 +1,14 @@
+Debe responder estas preguntas:
+
+¿Qué evento activa el flujo?
+¿Qué mensaje se enviaría a Telegram?
+¿Qué información no debería enviarse por seguridad?
+Respuesta: 
+
+Evento: nuevo reporte registrado.
+
+Acción: enviar mensaje a Telegram.
+
+Mensaje: “Nuevo reporte recibido. Revisar sistema.”
+
+Información que no debe enviarse: nombres completos, documentos de identidad, direcciones, teléfonos, claves o datos sensibles.
